@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.aiipu.com/download/ios/display-center.ipa</string>
+					<string>http://www.aiipu.com:8083/download/ios/display-center.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
